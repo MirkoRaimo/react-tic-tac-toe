@@ -1,3 +1,17 @@
+# Welcome to my very first react tic-tac-toe app!
+In this app, I completed (and maybe also exended, if you are reading this file from the future) the example shown by the react team to introduce new developers to this amazing technology!<br>
+You can find the full tutorial at this link: https://reactjs.org/tutorial/tutorial.html
+
+This is the first version of the app:
+
+![](src/images/tic-tac-toe-first-version.png)
+
+<br>
+<br>
+By the way, if you want to know something more about how to create a react app, you can follow the steps reported below:
+<br>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
